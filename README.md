@@ -9,3 +9,5 @@ Since the requirement wants us to have data for the last 30 days, I have created
 directly with the available files name to pull filtered data, this will save space and execution time. 
 After reading data file is written in excel with an additional column of FileDate which will help us to know the source of data for each row. 
 PS: After downloading the data I found that during the last 30 days a lot of data is missing for Active Cases and No data present for recovered.
+
+Tableau Visualization: https://public.tableau.com/app/profile/rishabh.srivastava8504/viz/HillsboroughCovidCases/Dashboard1
